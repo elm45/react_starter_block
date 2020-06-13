@@ -1,0 +1,5 @@
+react-starter-block:
+  version: 1.0.0
+  footer: true
+  js:
+    js/dist/main.min.js: { minified: true }
